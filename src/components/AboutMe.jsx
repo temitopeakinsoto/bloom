@@ -8,7 +8,7 @@ function AboutMe() {
       <h1>Temitope Akinsoto</h1>
       <div className="location"><h4>Full Stack Developer</h4> <span><img src={location} /> Lagos, Nigeria</span></div>
       
-      <h2 className="about-me-heading">About Me</h2>
+      <h2 className="about-me-heading">About Me</h2> 
       <p>
         I&#x27;m full stack software developer with an undying thirst for more
         knowledge in the field of ICT

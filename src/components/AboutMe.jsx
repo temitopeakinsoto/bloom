@@ -118,8 +118,8 @@ function AboutMe() {
       </p>
       <p className="main-heading">I optimize</p>
       <p>
-        In everything I do, I can&#x27;t help wondering whether it could be done better,
-        faster or with less effort.
+        In everything I do, I can&#x27;t help wondering whether it could be done
+        better, faster or with less effort.
       </p>
       <p>
         A silly example is making tea in the morning. Every day I wonder whether
@@ -163,13 +163,14 @@ function AboutMe() {
       </div>
       <p className="main-heading">What excites me</p>
       <p>
-        I'm finally on track to become something I should have become long ago.
-        I let impostor syndrome get the better of me for too long. I thought
-        that something you loved doing could only be a hobby, not how you made
-        your living. I got busy working on things that didn't fulfill me but
-        paid the bills. I thought that was all I could expect of life.
+        I see this trainee program as an opportuinity to join
+        and learn from a world-class team passionate about developing and
+        delivering magical CRM software that helps companies make a lasting
+        impression on their customers. This program a rare opportuinity for bridging the gap
+        between school learning and hands-on industry experience. I feel like I'm finally
+        on track to becoming something I have always wanted to be. The prospects
+        of getting trained and working with great minds for a full year is just super-exciting to me! 
       </p>
-      
       <p className="main-heading">
         Why I'm a great candidate for the Software Developer Trainee position
       </p>
@@ -192,8 +193,8 @@ function AboutMe() {
       <p>
         My current objective is to build on this foundation by working with
         colleagues and creators whose craftsmanship and skill will inspire me to
-        push harder and further than ever as I pursue my new career as a world-class,
-        full-stack developer.
+        push harder and further than ever as I pursue my new career as a
+        world-class, full-stack developer.
       </p>
       {/* <p>
         Oh, and by the way, Lambda School is taught 100% remotely with people

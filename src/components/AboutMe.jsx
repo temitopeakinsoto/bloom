@@ -229,14 +229,6 @@ function AboutMe() {
         ever dreamed.
       </p>
       <p>
-        One of our course instructors said to focus on the basics, the things
-        that would never go out of fashion: JavaScript itself rather than the
-        latest trendy framework; HTML and CSS rather than today's hottest design
-        library. I've been around long enough to know that although that's
-        unsexy advice it's good advice, so that's what I'm doing and intend to
-        keep doing.
-      </p>
-      <p>
         I'm betting that getting 1% better every day will compound unbelievably
         over months and years and that five years from now I'll look back and be
         proud and fulfilled in my work and life thanks to decisions I'm taking

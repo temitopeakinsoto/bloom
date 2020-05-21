@@ -1,5 +1,6 @@
 import React from "react";
 import logo from "../images/lime_logo.png";
+import profile from "../images/profile.jpg";
 
 export default function Header() {
   return (
@@ -10,6 +11,9 @@ export default function Header() {
         </div>  
         <p>European Trainee Program</p>
         <p>Location: <span>Luna</span></p>
+      </div>
+      <div className="header-profile">
+        <img src={profile} />
       </div>      
     </header>
   );

@@ -3,7 +3,6 @@ import standup from "../images/standup.mp4";
 import location from "../images/location.png";
 import hackerrank from "../images/Temitope Akinsoto_HackerRank.pdf";
 
-
 function AboutMe() {
   return (
     <div className="about-me">
@@ -66,7 +65,15 @@ function AboutMe() {
         <li>A final external interview with a senior engineer from AirBnB</li>
       </ul>
       <p>
-        Click <a href={hackerrank} download="Hackerrank White Board Fitness Assessment">here</a> to download my hackerrank code challenge<br/>
+        Click{" "}
+        <a
+          href={hackerrank}
+          download="Hackerrank White Board Fitness Assessment"
+        >
+          here
+        </a>{" "}
+        to download my hackerrank code challenge
+        <br />
         You can see my GitHub profile{" "}
         <a
           rel="noopener noreferrer"
@@ -87,7 +94,11 @@ function AboutMe() {
       </p>
       <p>
         Here's a{" "}
-        <a rel="noopener noreferrer" target="_blank" href="https://epic-turing-174c05.netlify.app/">
+        <a
+          rel="noopener noreferrer"
+          target="_blank"
+          href="https://epic-turing-174c05.netlify.app/"
+        >
           COVID-19 Monitor app
         </a>{" "}
         I'm currently building. This app was built using ReactJs, ChartJS, CSS
@@ -184,14 +195,14 @@ function AboutMe() {
         It might take a day. It might take a week. But I'll keep coming back to
         it until I do.
       </p>
-      <p>
+      {/* <p>
         My current objective is to build on this foundation by working with
         colleagues and creators whose craftsmanship and skill inspires me to
         push harder and further than ever as I pursue my new career as a
         full-stack developer. I want this opportunity more than anything for the
         experience of working with you and Steve. I admire your work and want to
         be part of making Tailwind happen.
-      </p>
+      </p> */}
       {/* <p>
         Oh, and by the way, Lambda School is taught 100% remotely with people
         from all different time zones so I'm completely at home using
@@ -200,7 +211,7 @@ function AboutMe() {
         and get deep work done every morning before you wake up.
       </p> */}
       <p className="main-heading">
-        What the future will be like if we work together
+        What the future will be like if I got accepted
       </p>
       <p>
         Getting this trainee position will be a dream come true! At first I'll
@@ -215,17 +226,12 @@ function AboutMe() {
         few things like that in the early days, but it won't be long before I'm
         a productive member of the team/group.
       </p>
-      
       <p>
-        A year in you'll see someone doing something he loves with care and
-        precision and sharing his knowledge and skill freely with the Tailwind
-        community. You won't have to ask to know that I'm excited to start work
+        A year in you'll see someone contributing immesely to the Lime
+        technologies team while doing something he loves with care and
+        precision.. You won't have to ask to know that I'm excited to start work
         every day, and that I'd probably do this even if you stopped paying me.
-        It's hard to say how much being able to say that will mean to me, but my
-        hope is that my story and example will inspire others to follow their
-        dreams and not settle for “close-enough”.
       </p>
-      
       <p className="main-heading">What I'm betting on</p>
       <p>
         I'm betting on me. I'm betting I can learn and do and be more than I

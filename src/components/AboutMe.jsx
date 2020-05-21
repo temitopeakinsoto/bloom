@@ -195,14 +195,12 @@ function AboutMe() {
         It might take a day. It might take a week. But I'll keep coming back to
         it until I do.
       </p>
-      {/* <p>
+      <p>
         My current objective is to build on this foundation by working with
-        colleagues and creators whose craftsmanship and skill inspires me to
-        push harder and further than ever as I pursue my new career as a
-        full-stack developer. I want this opportunity more than anything for the
-        experience of working with you and Steve. I admire your work and want to
-        be part of making Tailwind happen.
-      </p> */}
+        colleagues and creators whose craftsmanship and skill will inspire me to
+        push harder and further than ever as I pursue my new career as a world-class,
+        full-stack developer.
+      </p>
       {/* <p>
         Oh, and by the way, Lambda School is taught 100% remotely with people
         from all different time zones so I'm completely at home using

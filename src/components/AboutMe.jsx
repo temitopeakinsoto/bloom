@@ -10,7 +10,7 @@ function AboutMe() {
       <div className="location">
         <h4>Full Stack Developer</h4>{" "}
         <span>
-          <img src={location} alt="location icon" /> Lagos, Nigeria
+          <img src={location} alt="location icon" /> Lagos, Nigeria (Willing to relocate)
         </span>
       </div>
       <h2 className="about-me-heading">About Me</h2>
@@ -18,7 +18,6 @@ function AboutMe() {
         I&#x27;m full stack software developer with an undying thirst for more
         knowledge in the field of ICT
       </p>
-      <p>I'm based in Lagos, Nigeria</p>
       <p>
         As a teen, I wanted to be able to solve problems in the area of public
         health so I decided to study Biochemistry. After graduation, however, I

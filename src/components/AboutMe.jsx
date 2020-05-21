@@ -208,7 +208,7 @@ function AboutMe() {
       </p>
       <p>
         Getting this trainee position will be a dream come true! At first I'll
-        feel overwhelmed. But over the first few weeks I'll find my feet. I'll
+        feel excited and scared at the same time(lol). But over the first few weeks I'll find my feet. I'll
         work very hard to get things done. I'll take immense pride and joy in my
         work/training.
       </p>

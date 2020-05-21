@@ -1,14 +1,18 @@
 import React from "react";
-import standup from  '../images/standup.mp4'
-import location from  '../images/location.png'
+import standup from "../images/standup.mp4";
+import location from "../images/location.png";
 
 function AboutMe() {
   return (
     <div className="about-me">
       <h1>Temitope Akinsoto</h1>
-      <div className="location"><h4>Full Stack Developer</h4> <span><img src={location} /> Lagos, Nigeria</span></div>
-      
-      <h2 className="about-me-heading">About Me</h2> 
+      <div className="location">
+        <h4>Full Stack Developer</h4>{" "}
+        <span>
+          <img src={location} /> Lagos, Nigeria
+        </span>
+      </div>
+      <h2 className="about-me-heading">About Me</h2>
       <p>
         I&#x27;m full stack software developer with an undying thirst for more
         knowledge in the field of ICT
@@ -63,11 +67,19 @@ function AboutMe() {
       </ul>
       <p>
         You can see my GitHub profile{" "}
-        <a rel="noopener noreferrer" target="_blank" href="https://www.github.com/temitopeakinsoto">
+        <a
+          rel="noopener noreferrer"
+          target="_blank"
+          href="https://www.github.com/temitopeakinsoto"
+        >
           here
         </a>{" "}
         and Portfolio site{" "}
-        <a rel="noopener noreferrer" target="_blank" href="https://www.temitopeakinsoto.com">
+        <a
+          rel="noopener noreferrer"
+          target="_blank"
+          href="https://www.temitopeakinsoto.com"
+        >
           here
         </a>
         .
@@ -137,7 +149,9 @@ function AboutMe() {
           Your browser does not support HTML video.
         </video>
       </div>
-      <p className="main-heading">Why I'm a great candidate for the Software Developer Trainee position</p>
+      <p className="main-heading">
+        Why I'm a great candidate for the Software Developer Trainee position
+      </p>
       <p>
         I've never seen myself as an expert in anything, but I learn fast and
         pay attention to detail. I notice things that need to get done and do
@@ -173,46 +187,19 @@ function AboutMe() {
         What the future will be like if we work together
       </p>
       <p>
-        At first I'll feel overwhelmed. What possessed me to apply? How am I
-        ever going to live up to the expectations I've set? Who am I to think I
-        can perform at this level? Is there any way I can get out of this with
-        my honour intact?
+        Getting this trainee position will be a dream come true! At first I'll
+        feel overwhelmed. But over the first few weeks I'll find my feet. I'll
+        work very hard to get things done. I'll take immense pride and joy in my
+        work/training.
       </p>
       <p>
-        Over the first few weeks I'll find my feet. I'll get a few things done.
-        We'll review them together. I'll feel immense pride in my work. I'll
-        make sure that if there are things that need changing I understand why
-        and that we only need to talk about them once.
+        If I'm asked to do something and later realise I have no idea where to
+        start I'll ask a lot of questions and try to find the answers. If I'm
+        not able to find the answers, I'll reach out for help. There will be a
+        few things like that in the early days, but it won't be long before I'm
+        a productive member of the team/group.
       </p>
-      <p>
-        I'll ask a lot of questions. As we both start to trust that I'm getting
-        it we'll move on to more complex and detailed work. I may not be a
-        designer, but I have an innate sense of what good design looks like and
-        I know how to get to the what's, how's and why's before starting to
-        build.
-      </p>
-      <p>
-        If I say I'll do something and later realise I have no idea where to
-        start I'll let you know straight away. There will be a few things like
-        that in the early days, but it won't be long before I'm a productive
-        member of the team.
-      </p>
-      <p>
-        Tailwind uses a lot of technologies I've not exposed myself to yet, so
-        I'll be teaching myself and learning lots on the job. I'm confident I'm
-        up to it. In the last nine months I've gone from little practical coding
-        knowledge to writing production-grade apps using JavaScript, React,
-        Node.JS, Express and SQL and solving computer science problems using
-        Python.
-      </p>
-      <p>
-        In six months I'll be an integral part of the team. We'll have
-        established a regular cadence to our collaboration. You'll be confident
-        that everything that's on my to-do list will be done reliably, on time
-        and to a high standard. I'll have made a few mistakes, but the way I've
-        handled them will give you great confidence that I was the right choice
-        for the job.
-      </p>
+      
       <p>
         A year in you'll see someone doing something he loves with care and
         precision and sharing his knowledge and skill freely with the Tailwind

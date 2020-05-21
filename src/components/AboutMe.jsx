@@ -188,9 +188,8 @@ function AboutMe() {
         My natural curiousity and inclination to learn means I pay attention to
         tiny things. “If the text in a button is off-center by a pixel you will
         go to the end of the earth to figure out why” makes me smile a big
-        smile. That's me to a T. It'll bug me constantly until I figure it out.
-        It might take a day. It might take a week. But I'll keep coming back to
-        it until I do.
+        smile. It'll bug me constantly until I figure it out. It might take a
+        day. It might take a week. But I'll keep coming back to it until I do.
       </p>
       <p>
         My current objective is to build on this foundation by working with
@@ -210,7 +209,7 @@ function AboutMe() {
       </p>
       <p>
         Getting this trainee position will be a dream come true! At first I'll
-        feel excited and scared at the same time(lol). But over the first few
+        feel excited and scared at the same time (lol). But over the first few
         weeks I'll find my feet. I'll work very hard to get things done. I'll
         take immense pride and joy in my work/training.
       </p>

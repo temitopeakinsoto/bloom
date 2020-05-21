@@ -167,7 +167,10 @@ function AboutMe() {
         world-class team passionate about developing and delivering magical CRM
         software that helps companies make a lasting impression on their
         customers. This program is a rare opportuinity for bridging the gap
-        between school learning and hands-on industry experience. I feel like
+        between school learning and hands-on industry experience. 
+      </p>
+      <p>I love learning, I love doing. I love the feeling that comes from
+        being able to solve a problem using technology. I feel like
         I'm finally on track to becoming something I have always wanted to be.
         The prospects of getting trained and working with great minds for a full
         year is just super-exciting to me!

@@ -166,7 +166,7 @@ function AboutMe() {
         I see this trainee program as an opportuinity to join
         and learn from a world-class team passionate about developing and
         delivering magical CRM software that helps companies make a lasting
-        impression on their customers. This program a rare opportuinity for bridging the gap
+        impression on their customers. This program is a rare opportuinity for bridging the gap
         between school learning and hands-on industry experience. I feel like I'm finally
         on track to becoming something I have always wanted to be. The prospects
         of getting trained and working with great minds for a full year is just super-exciting to me! 

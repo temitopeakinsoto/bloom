@@ -34,8 +34,7 @@ function AboutMe() {
         problems, building high quality applications and applying the latest
         technologies to solve people's needs. I believe my strengths in those
         areas, coupled with my skills in Nodejs, Express, Javascript, MongoDB
-        make me an excellent fit for the position of Backend Developer at your
-        client's organisation.
+        make me an excellent fit for the European Trainee Program.
       </p>
       <p>
         A year ago I had an opportunity to formalise my software engineering

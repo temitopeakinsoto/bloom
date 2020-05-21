@@ -1,6 +1,8 @@
 import React from "react";
 import standup from "../images/standup.mp4";
 import location from "../images/location.png";
+import hackerrank from "../images/Temitope Akinsoto_HackerRank.pdf";
+
 
 function AboutMe() {
   return (
@@ -9,7 +11,7 @@ function AboutMe() {
       <div className="location">
         <h4>Full Stack Developer</h4>{" "}
         <span>
-          <img src={location} /> Lagos, Nigeria
+          <img src={location} alt="location icon" /> Lagos, Nigeria
         </span>
       </div>
       <h2 className="about-me-heading">About Me</h2>
@@ -49,10 +51,10 @@ function AboutMe() {
       <ul>
         <li>40 hours a week of intensive study</li>
         <li>Daily individual projects</li>
-        <li>Weekly tests</li>
+        <li>Weekly tests & sprint Projects</li>
         <li>Monthly team projects</li>
         <li>One eight-week team project</li>
-        <li>Eight weeks of Computer Science</li>
+        <li>Eight weeks of Computer Science ( DataStructures, Algorithms )</li>
         <li>A final HackerRank coding challenge and interview</li>
         <li>
           A final professional interview with a Lambda School Careers Coach
@@ -64,6 +66,7 @@ function AboutMe() {
         <li>A final external interview with a senior engineer from AirBnB</li>
       </ul>
       <p>
+        Click <a href={hackerrank} download="Hackerrank White Board Fitness Assessment">here</a> to download my hackerrank code challenge<br/>
         You can see my GitHub profile{" "}
         <a
           rel="noopener noreferrer"
@@ -84,7 +87,7 @@ function AboutMe() {
       </p>
       <p>
         Here's a{" "}
-        <a href="https://epic-turing-174c05.netlify.app/">
+        <a rel="noopener noreferrer" target="_blank" href="https://epic-turing-174c05.netlify.app/">
           COVID-19 Monitor app
         </a>{" "}
         I'm currently building. This app was built using ReactJs, ChartJS, CSS
@@ -92,7 +95,7 @@ function AboutMe() {
         CDS, WHO and a few others.
       </p>
       <p>
-        You can view the repo for this page{" "}
+        You can view the repo for this project{" "}
         <a href="https://github.com/temitopeakinsoto/covid19"> here</a>
       </p>
       <h2>Strengths I think you'll love</h2>

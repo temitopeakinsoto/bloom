@@ -10,7 +10,8 @@ function AboutMe() {
       <div className="location">
         <h4>Full Stack Developer</h4>{" "}
         <span>
-          <img src={location} alt="location icon" /> Lagos, Nigeria (Willing to relocate)
+          <img src={location} alt="location icon" /> Lagos, Nigeria (Willing to
+          relocate)
         </span>
       </div>
       <h2 className="about-me-heading">About Me</h2>
@@ -162,13 +163,14 @@ function AboutMe() {
       </div>
       <p className="main-heading">What excites me</p>
       <p>
-        I see this trainee program as an opportuinity to join
-        and learn from a world-class team passionate about developing and
-        delivering magical CRM software that helps companies make a lasting
-        impression on their customers. This program is a rare opportuinity for bridging the gap
-        between school learning and hands-on industry experience. I feel like I'm finally
-        on track to becoming something I have always wanted to be. The prospects
-        of getting trained and working with great minds for a full year is just super-exciting to me! 
+        I see this trainee program as an opportuinity to join and learn from a
+        world-class team passionate about developing and delivering magical CRM
+        software that helps companies make a lasting impression on their
+        customers. This program is a rare opportuinity for bridging the gap
+        between school learning and hands-on industry experience. I feel like
+        I'm finally on track to becoming something I have always wanted to be.
+        The prospects of getting trained and working with great minds for a full
+        year is just super-exciting to me!
       </p>
       <p className="main-heading">
         Why I'm a great candidate for the Software Developer Trainee position
@@ -177,12 +179,13 @@ function AboutMe() {
         I've never seen myself as an expert in anything, but I learn fast and
         pay attention to detail. I notice things that need to get done and do
         them, no need to ask. I see myself as a craftsman, not just someone with
-        a job. I take pride in ensuring that everything I do is done to a high
-        standard, even the bits that no-one else sees. I'm humble. I keep my
-        commitments. I turn up on time. I listen.
+        a job. I'm always curious about how things work. It's not just about
+        getting the data to flow from the database to the user's screen, it's
+        about getting to know the technologies, understanding the layers and
+        finally delivering code to production
       </p>
       <p>
-        My natural inclination to learn and optimize means I pay attention to
+        My natural curiousity and inclination to learn means I pay attention to
         tiny things. “If the text in a button is off-center by a pixel you will
         go to the end of the earth to figure out why” makes me smile a big
         smile. That's me to a T. It'll bug me constantly until I figure it out.
@@ -207,9 +210,9 @@ function AboutMe() {
       </p>
       <p>
         Getting this trainee position will be a dream come true! At first I'll
-        feel excited and scared at the same time(lol). But over the first few weeks I'll find my feet. I'll
-        work very hard to get things done. I'll take immense pride and joy in my
-        work/training.
+        feel excited and scared at the same time(lol). But over the first few
+        weeks I'll find my feet. I'll work very hard to get things done. I'll
+        take immense pride and joy in my work/training.
       </p>
       <p>
         If I'm asked to do something and later realise I have no idea where to

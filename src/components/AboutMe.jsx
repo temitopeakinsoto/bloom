@@ -121,12 +121,12 @@ function AboutMe() {
         achieve something they&#x27;re finding hard, get to the "aha moment" or
         just understand something for the first time.
       </p>
-      <p>
+      {/* <p>
         At every company I&#x27;ve ever worked for I&#x27;ve rapidly become the
         go-to guy for all sorts of questions. I write the how-to guide. I share
         what I&#x27;ve discovered. I volunteer to help. I literally can’t stop
         myself.
-      </p>
+      </p> */}
       <p>
         Here's a video of me working in a cross-functional, distributed team
         while at Lambda school

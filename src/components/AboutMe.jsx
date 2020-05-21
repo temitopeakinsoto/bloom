@@ -32,8 +32,7 @@ function AboutMe() {
       <p>
         There is nothing that excites me more than solving complex technical
         problems, building high quality applications and applying the latest
-        technologies to solve people's needs. I believe my strengths in those
-        areas, coupled with my skills in Nodejs, Express, Javascript, MongoDB
+        technologies to solve people's needs. I believe my skills and attitude
         make me an excellent fit for the European Trainee Program.
       </p>
       <p>
@@ -148,6 +147,21 @@ function AboutMe() {
           Your browser does not support HTML video.
         </video>
       </div>
+      <p className="main-heading">What excites me</p>
+      <p>
+        I'm finally on track to become something I should have become long ago.
+        I let impostor syndrome get the better of me for too long. I thought
+        that something you loved doing could only be a hobby, not how you made
+        your living. I got busy working on things that didn't fulfill me but
+        paid the bills. I thought that was all I could expect of life.
+      </p>
+      <p>
+        So what changed? Getting older. Getting married. Having kids. I woke up
+        one day with a visceral sense that if I didn't do it now it was never
+        going to get any easier. In a year I would either be labouring down the
+        same old track or on a different path with unknown twists and turns but
+        a clear sense of purpose and excitement to see where it led.
+      </p>
       <p className="main-heading">
         Why I'm a great candidate for the Software Developer Trainee position
       </p>
@@ -208,21 +222,7 @@ function AboutMe() {
         hope is that my story and example will inspire others to follow their
         dreams and not settle for “close-enough”.
       </p>
-      <p className="main-heading">What excites me</p>
-      <p>
-        I'm finally on track to become something I should have become long ago.
-        I let impostor syndrome get the better of me for too long. I thought
-        that something you loved doing could only be a hobby, not how you made
-        your living. I got busy working on things that didn't fulfill me but
-        paid the bills. I thought that was all I could expect of life.
-      </p>
-      <p>
-        So what changed? Getting older. Getting married. Having kids. I woke up
-        one day with a visceral sense that if I didn't do it now it was never
-        going to get any easier. In a year I would either be labouring down the
-        same old track or on a different path with unknown twists and turns but
-        a clear sense of purpose and excitement to see where it led.
-      </p>
+      
       <p className="main-heading">What I'm betting on</p>
       <p>
         I'm betting on me. I'm betting I can learn and do and be more than I

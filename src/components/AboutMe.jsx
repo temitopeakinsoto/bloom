@@ -118,7 +118,7 @@ function AboutMe() {
       </p>
       <p className="main-heading">I optimize</p>
       <p>
-        Anything I do I can&#x27;t help wondering whether could be done better,
+        In everything I do, I can&#x27;t help wondering whether it could be done better,
         faster or with less effort.
       </p>
       <p>
@@ -169,13 +169,7 @@ function AboutMe() {
         your living. I got busy working on things that didn't fulfill me but
         paid the bills. I thought that was all I could expect of life.
       </p>
-      <p>
-        So what changed? Getting older. Getting married. Having kids. I woke up
-        one day with a visceral sense that if I didn't do it now it was never
-        going to get any easier. In a year I would either be labouring down the
-        same old track or on a different path with unknown twists and turns but
-        a clear sense of purpose and excitement to see where it led.
-      </p>
+      
       <p className="main-heading">
         Why I'm a great candidate for the Software Developer Trainee position
       </p>

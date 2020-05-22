@@ -16,7 +16,6 @@ function SideBar() {
                   style={{ height: "5px", background: "white" }}
                 >
                   <div
-                    className="progress-bar theme-progress-bar-dark"
                     role="progressbar"
                     style={{ width: "72%" }}
                     aria-valuenow="25"
@@ -32,7 +31,6 @@ function SideBar() {
                   style={{ height: "5px", background: "white" }}
                 >
                   <div
-                    className="progress-bar theme-progress-bar-dark"
                     role="progressbar"
                     style={{ width: "72%" }}
                     aria-valuenow="25"
@@ -49,7 +47,6 @@ function SideBar() {
                   style={{ height: "5px", background: "white" }}
                 >
                   <div
-                    className="progress-bar"
                     role="progressbar"
                     style={{ width: "52%" }}
                     aria-valuenow="25"
@@ -65,7 +62,6 @@ function SideBar() {
                   style={{ height: "5px", background: "white" }}
                 >
                   <div
-                    className="progress-bar"
                     role="progressbar"
                     style={{ width: "70%" }}
                     aria-valuenow="25"
@@ -87,7 +83,6 @@ function SideBar() {
                   style={{ height: "5px", background: "white" }}
                 >
                   <div
-                    className="progress-bar"
                     role="progressbar"
                     style={{ width: "72%" }}
                     aria-valuenow="25"
@@ -103,7 +98,6 @@ function SideBar() {
                   style={{ height: "5px", background: "white" }}
                 >
                   <div
-                    className="progress-bar"
                     role="progressbar"
                     style={{ width: "52%" }}
                     aria-valuenow="25"

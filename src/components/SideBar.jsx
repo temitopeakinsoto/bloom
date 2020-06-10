@@ -117,7 +117,7 @@ function SideBar() {
               Others Skills
             </h4>
             <ul className="list-inline" style={{ listStyleType: "disc" }}>
-              <li className="other-skills">AWS (In view)</li>
+              <li className="other-skills">AWS (In view - 13/06/2020)</li>
               <li className="other-skills">Git</li>
               <li className="other-skills">Wireframing </li>
               <li className="other-skills">Code Review</li>

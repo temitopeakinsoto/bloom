@@ -1,4 +1,6 @@
 import React from "react";
+import hackerrank from "../images/Temitope Akinsoto_HackerRank.pdf";
+
 
 function SideBar() {
   return (
@@ -169,7 +171,10 @@ function SideBar() {
       <div className="social-media-container">
           <button className="social-media"><a rel="noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/temitopeakinsoto">Linkedin</a></button>
           <button className="social-media"><a rel="noopener noreferrer" target="_blank" href="https://www.temitopeakinsoto.com/#featured-projects">Projects</a></button>
-          <button className="social-media"><a rel="noopener noreferrer" target="_blank" href="https://www.temitopeakinsoto.com/resume.html">Resume</a></button>
+          <button className="social-media"><a
+          href={hackerrank}
+          download="Hackerrank White Board Fitness Assessment"
+        >Resume</a></button>
       </div>
     </div>
   );

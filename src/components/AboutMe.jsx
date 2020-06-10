@@ -138,8 +138,8 @@ function AboutMe() {
       <p className="main-heading">I learn and I optimize</p>
       <p>
         I love asking questions. Every question leads to another. Sometimes
-        there are answers. Sometimes there aren&#x27;t. But every question is
-        interesting and exciting to explore.
+        there are immediate answers. Sometimes there aren&#x27;t. But every
+        question is interesting and exciting to explore.
       </p>
       <p>
         In everything I do, I can&#x27;t help wondering whether it could be done
@@ -173,34 +173,46 @@ function AboutMe() {
           Your browser does not support HTML video.
         </video>
       </div>
-      <p className="main-heading">What excites me</p>
+      <p className="main-heading">What excites me about this position</p>
       <p>
         Bloomberg is the global leader in business and financial data, news and
-        insight. Using the power of technology, we connect the world’s decision
-        makers to accurate information on the financial markets – and help them
-        make faster, smarter decisions.
+        insight. Bloomberg uses the power of technology to connect the world’s
+        decision makers to accurate information on the financial markets – and
+        help them make faster, smarter decisions.
       </p>
       <p>
-        I see this as an opportuinity to learn from and contribute to a world-class team of engineers who are
-        passionate about solving some of the world’s most interesting and important technical challenges. We develop impactful solutions to complex, real-world problems
+        I see this as an opportunity to learn from and contribute to a
+        world-class team of engineers who are passionate about solving some of
+        the world’s most interesting and important technical challenges.
       </p>
       <p>
         I love learning, I love doing. My greatest drive and motivation is the
         feeling that comes from being able to solve a problem using technology.
-        I feel like I'm finally on track to becoming something I have always
-        wanted to be.
+        <br />
+        What excites me most about this position is the prospects of learning
+        the ins and outs of Bloomberg's technology stack and soaking up skills
+        needed to be a successful software engineer in your high-energy and
+        fast-paced environment.
       </p>
       <p className="main-heading">
-        Why I'm a great candidate for the Software Engineer - 2020 Graduate/Entry Level position
+        Why I'm a great candidate for the Software Engineer - 2020
+        Graduate/Entry Level position
       </p>
       <p>
-        My natural curiousity and inclination to learn means I pay attention to
-        tiny things. “If the text in a button is off-center by a pixel you will
-        go to the end of the earth to figure out why” makes me smile a big
-        smile. It'll bug me constantly until I figure it out. It might take a
-        day. It might take a week. But I'll keep coming back to it until I do.
+        In addition to my experience in software development, I also posses the
+        following skills which I strongly believe make me a great candidate for
+        this position:
+        <br />
+        <br />
+        <li>I'm gritty and hardworking</li>
+        <li>I'm an excellent problem solver</li>
+        <li>I'm a collaborative team member</li>
+        <li>Have programming experience Python, Javascript, Databases etc </li>
+        <li>
+          I'm a super-fast learner and I easily pick up new skills/technologies
+        </li>
+        <li>I have good understanding of data structures and algorithms</li>
       </p>
-
     </div>
   );
 }

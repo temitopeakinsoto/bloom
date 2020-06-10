@@ -1,5 +1,7 @@
 import React from "react";
 import standup from "../images/standup.mp4";
+import vid1 from "../images/lambda_curriculum.mp4";
+import vid2 from "../images/lambda_vs_university.mp4";
 import location from "../images/location.png";
 import hackerrank from "../images/Temitope Akinsoto_HackerRank.pdf";
 
@@ -43,6 +45,23 @@ function AboutMe() {
         frequently worked on production-ready apps with distributed
         international teams using Agile methodology.
       </p>
+      <p>
+        I invite you to watch this short video clips from Ben Nelson (Co-Founder
+        and CTO of Lambda School), to see how Lamda's curriculum compares to a
+        university degree.
+      </p>
+      <div className="video-window">
+        <video width="400" controls>
+          <source src={vid1} type="video/mp4" />
+          Your browser does not support HTML video.
+        </video>
+      </div>
+      <div className="video-window">
+        <video width="400" controls>
+          <source src={vid2} type="video/mp4" />
+          Your browser does not support HTML video.
+        </video>
+      </div>
       <p>
         At Lambda School, I learnt the core principles of SOFTWARE ENGINEERING,
         DATA STRUCTURES AND ALGORITHMS, Here's a breakdown of what I completed:
@@ -110,13 +129,18 @@ function AboutMe() {
         <a href="https://github.com/temitopeakinsoto/covid19"> here</a>
       </p>
       <h2>Strengths I think you'll love</h2>
-      <p className="main-heading">I learn</p>
+      <p className="main-heading">I take responsibility</p>
+      I'm a problem solver and a collaborative team player who loves to take
+      responsibility of the product development with a view to contributing to
+      the design, development and roll out of tech solutions. I understand how
+      to use Big-O notation, data structures and algorithms to efficiently
+      manipulate large datasets and write performant codes.
+      <p className="main-heading">I learn and I optimize</p>
       <p>
-        I love asking beginner&#x27;s questions. Every question leads to
-        another. Sometimes there are answers. Sometimes there aren&#x27;t. But
-        every question is interesting and exciting to explore.
+        I love asking questions. Every question leads to another. Sometimes
+        there are answers. Sometimes there aren&#x27;t. But every question is
+        interesting and exciting to explore.
       </p>
-      <p className="main-heading">I optimize</p>
       <p>
         In everything I do, I can&#x27;t help wondering whether it could be done
         better, faster or with less effort.
@@ -126,12 +150,6 @@ function AboutMe() {
         I could do it a little better than I did the day before. Some days I
         make a tweak to my process. Sometimes I keep the change. Sometimes I
         throw it away and start again.
-      </p>
-      <p>
-        My tea-making process has developed in tiny increments over years and
-        years. It&#x27;s always evolving. It always will be. I&#x27;ll never
-        tire of paying attention to each individual step and wondering if I
-        could do it better.
       </p>
       <p>
         Learning and optimizing go hand in hand. Optimizing is the process of
@@ -145,12 +163,6 @@ function AboutMe() {
         achieve something they&#x27;re finding hard, get to the "aha moment" or
         just understand something for the first time.
       </p>
-      {/* <p>
-        At every company I&#x27;ve ever worked for I&#x27;ve rapidly become the
-        go-to guy for all sorts of questions. I write the how-to guide. I share
-        what I&#x27;ve discovered. I volunteer to help. I literally can’t stop
-        myself.
-      </p> */}
       <p>
         Here's a video of me working in a cross-functional, distributed team
         while at Lambda school
@@ -163,30 +175,23 @@ function AboutMe() {
       </div>
       <p className="main-heading">What excites me</p>
       <p>
-        I see this trainee program as an opportuinity to join and learn from a
-        world-class team passionate about developing and delivering magical CRM
-        software that helps companies make a lasting impression on their
-        customers. This program is a rare opportuinity for bridging the gap
-        between school learning and hands-on industry experience.
+        Bloomberg is the global leader in business and financial data, news and
+        insight. Using the power of technology, we connect the world’s decision
+        makers to accurate information on the financial markets – and help them
+        make faster, smarter decisions.
+      </p>
+      <p>
+        I see this as an opportuinity to learn from and contribute to a world-class team of engineers who are
+        passionate about solving some of the world’s most interesting and important technical challenges. We develop impactful solutions to complex, real-world problems
       </p>
       <p>
         I love learning, I love doing. My greatest drive and motivation is the
         feeling that comes from being able to solve a problem using technology.
         I feel like I'm finally on track to becoming something I have always
-        wanted to be. The prospects of getting trained and working with great
-        minds for a full year is just super-exciting to me!
+        wanted to be.
       </p>
       <p className="main-heading">
-        Why I'm a great candidate for the Software Developer Trainee position
-      </p>
-      <p>
-        I've never seen myself as an expert in anything, but I learn fast and
-        pay attention to detail. I notice things that need to get done and do
-        them, no need to ask. I see myself as a craftsman, not just someone with
-        a job. I'm always curious about how things work. It's not just about
-        getting the data to flow from the database to the user's screen, it's
-        about getting to know the technologies, understanding the layers and
-        finally delivering code to production
+        Why I'm a great candidate for the Software Engineer - 2020 Graduate/Entry Level position
       </p>
       <p>
         My natural curiousity and inclination to learn means I pay attention to
@@ -195,52 +200,7 @@ function AboutMe() {
         smile. It'll bug me constantly until I figure it out. It might take a
         day. It might take a week. But I'll keep coming back to it until I do.
       </p>
-      <p>
-        My current objective is to build on this foundation by working with
-        colleagues and creators whose craftsmanship and skill will inspire me to
-        push harder and further than ever as I pursue my new career as a
-        world-class, full-stack developer.
-      </p>
-      {/* <p>
-        Oh, and by the way, Lambda School is taught 100% remotely with people
-        from all different time zones so I'm completely at home using
-        collaboration tools like Slack and Zoom. Plus, being in the UK, I have a
-        great location to overlap comfortably with you for four hours every day
-        and get deep work done every morning before you wake up.
-      </p> */}
-      <p className="main-heading">
-        What the future will be like if I got accepted
-      </p>
-      <p>
-        Getting this trainee position will be a dream come true! At first I'll
-        feel excited and scared at the same time (lol). But over the first few
-        weeks I'll find my feet. I'll work very hard to get things done. I'll
-        take immense pride and joy in my work/training.
-      </p>
-      <p>
-        If I'm asked to do something and later realise I have no idea where to
-        start I'll ask a lot of questions and try to find the answers. If I'm
-        not able to find the answers, I'll reach out for help. There will be a
-        few things like that in the early days, but it won't be long before I'm
-        a productive member of the team/group.
-      </p>
-      <p>
-        A year in you'll see someone contributing immesely to the Lime
-        technologies team while doing something he loves with care and
-        precision.. You won't have to ask to know that I'm excited to start work
-        every day, and that I'd probably do this even if you stopped paying me.
-      </p>
-      <p className="main-heading">What I'm betting on</p>
-      <p>
-        I'm betting on me. I'm betting I can learn and do and be more than I
-        ever dreamed.
-      </p>
-      <p>
-        I'm betting that getting 1% better every day will compound unbelievably
-        over months and years and that five years from now I'll look back and be
-        proud and fulfilled in my work and life thanks to decisions I'm taking
-        and opportunities I'm pursuing right now.
-      </p>{" "}
+
     </div>
   );
 }

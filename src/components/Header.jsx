@@ -1,5 +1,4 @@
 import React from "react";
-import logo from "../images/lime_logo.png";
 import profile from "../images/profile.jpg";
 
 export default function Header() {
@@ -7,13 +6,13 @@ export default function Header() {
     <header className="header-section">
       <div className="header-content">
         <div className="header-logo">
-          <img src={logo} alt="lime technologies logo" />
+          <h1>BLOOMBERG</h1>     
         </div>  
-        <p>European Trainee Program</p>
-        <p>Location: <span>Luna</span></p>
+        <p>Software Engineer - 2020 Graduate/Entry Level</p>
+        <p>London</p>
       </div>
       <div className="header-profile">
-        <img src={profile} />
+        <img src={profile} alt=""/>
       </div>      
     </header>
   );

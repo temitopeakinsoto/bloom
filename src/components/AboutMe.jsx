@@ -129,12 +129,15 @@ function AboutMe() {
         <a href="https://github.com/temitopeakinsoto/covid19"> here</a>
       </p>
       <h2>Strengths I think you'll love</h2>
+      <br/>
       <p className="main-heading">I take responsibility</p>
       I'm a problem solver and a collaborative team player who loves to take
       responsibility of the product development with a view to contributing to
       the design, development and roll out of tech solutions. I understand how
       to use Big-O notation, data structures and algorithms to efficiently
       manipulate large datasets and write performant codes.
+      <br/>
+      <br/>
       <p className="main-heading">I learn and I optimize</p>
       <p>
         I love asking questions. Every question leads to another. Sometimes
@@ -173,6 +176,8 @@ function AboutMe() {
           Your browser does not support HTML video.
         </video>
       </div>
+      <br/>
+      <br/>
       <p className="main-heading">What excites me about this position</p>
       <p>
         Bloomberg is the global leader in business and financial data, news and
@@ -188,10 +193,10 @@ function AboutMe() {
       <p>
         I love learning, I love doing. My greatest drive and motivation is the
         feeling that comes from being able to solve a problem using technology.
-        <br />
+        <br /><br />
         What excites me most about this position is the prospects of learning
         the ins and outs of Bloomberg's technology stack and soaking up skills
-        needed to be a successful software engineer in your high-energy and
+        needed to be a successful software engineer in Bloomberg's high-energy and
         fast-paced environment.
       </p>
       <p className="main-heading">
@@ -200,7 +205,7 @@ function AboutMe() {
       </p>
       <p>
         In addition to my experience in software development, I also posses the
-        following skills which I strongly believe make me a great candidate for
+        following skills/qualities which I strongly believe make me a great candidate for
         this position:
         <br />
         <br />

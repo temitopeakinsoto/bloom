@@ -129,20 +129,23 @@ function AboutMe() {
         <a href="https://github.com/temitopeakinsoto/covid19"> here</a>
       </p>
       <h2>Strengths I think you'll love</h2>
-      <br/>
+      <br />
       <p className="main-heading">I take responsibility</p>
       I'm a problem solver and a collaborative team player who loves to take
       responsibility of the product development with a view to contributing to
       the design, development and roll out of tech solutions. I understand how
       to use Big-O notation, data structures and algorithms to efficiently
       manipulate large datasets and write performant codes.
-      <br/>
-      <br/>
+      <br />
+      <br />
       <p className="main-heading">I learn and I optimize</p>
       <p>
-        I love asking questions. Every question leads to another. Sometimes
-        there are immediate answers. Sometimes there aren&#x27;t. But every
-        question is interesting and exciting to explore.
+        I don't consider myself an expert in software development. I belive
+        there's room for improvement and I'd love to think of myself as a
+        work-in-progress. I'm always seeking for ways to improve. I love asking
+        questions. Every question leads to another. Sometimes there are
+        immediate answers. Sometimes there aren&#x27;t. But every question is
+        interesting and exciting to explore.
       </p>
       <p>
         In everything I do, I can&#x27;t help wondering whether it could be done
@@ -176,8 +179,8 @@ function AboutMe() {
           Your browser does not support HTML video.
         </video>
       </div>
-      <br/>
-      <br/>
+      <br />
+      <br />
       <p className="main-heading">What excites me about this position</p>
       <p>
         Bloomberg is the global leader in business and financial data, news and
@@ -193,26 +196,29 @@ function AboutMe() {
       <p>
         I love learning, I love doing. My greatest drive and motivation is the
         feeling that comes from being able to solve a problem using technology.
-        <br /><br />
+        <br />
+        <br />
         What excites me most about this position is the prospects of learning
         the ins and outs of Bloomberg's technology stack and soaking up skills
-        needed to be a successful software engineer in Bloomberg's high-energy and
-        fast-paced environment.
+        needed to be a successful software engineer in Bloomberg's high-energy
+        and fast-paced environment.
       </p>
       <p className="main-heading">
-        Why I  I'm a great candidate for the Software Engineer - 2020
+        Why I I'm a great candidate for the Software Engineer - 2020
         Graduate/Entry Level position
       </p>
       <p>
         In addition to my experience in software development, I also posses the
-        following skills/qualities which I strongly believe make me a great candidate for
-        this position:
+        following skills/qualities which I strongly believe make me a great
+        candidate for this position:
         <br />
         <br />
         <li>I'm gritty and hardworking</li>
         <li>I'm an excellent problem solver</li>
         <li>I'm a collaborative team member</li>
-        <li>Have programming experience in Python, Javascript, Databases etc </li>
+        <li>
+          Have programming experience in Python, Javascript, Databases etc{" "}
+        </li>
         <li>
           I'm a super-fast learner and I easily pick up new skills/technologies
         </li>

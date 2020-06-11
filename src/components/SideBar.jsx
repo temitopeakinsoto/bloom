@@ -1,7 +1,6 @@
 import React from "react";
 import resume from "../images/Temitope_Akinsoto _BLOOMBERG APPLICATION.pdf";
 
-
 function SideBar() {
   return (
     <div className="side-bar">
@@ -134,27 +133,31 @@ function SideBar() {
         <div className="resume-section-content">
           <ul className="list-unstyled">
             <li className="mb-2">
-              <div className="school-attended" >
+              <div className="school-attended">
                 Full Stack Web Development & Computer Science
               </div>
               <div className="resume-degree-org">
-                <a rel="noopener noreferrer" target="_blank" href="https://www.lambdaschool.com">
+                <a
+                  rel="noopener noreferrer"
+                  target="_blank"
+                  href="https://www.lambdaschool.com"
+                >
                   Lambda School, California USA
                 </a>
               </div>
               <span>August 2019 - Present</span>
             </li>
             <li>
-              <div className="school-attended">
-                BSc Biochemistry
-              </div>
-              <div className="resume-degree-org"><a
+              <div className="school-attended">BSc Biochemistry</div>
+              <div className="resume-degree-org">
+                <a
                   rel="noopener noreferrer"
                   target="_blank"
                   href="https://oauife.edu.ng/academics/faculties/sciences"
                 >
                   Obafemi Awolowo University, Nigeria
-                </a></div>
+                </a>
+              </div>
               <span>2008 - 2012</span>
             </li>
           </ul>
@@ -169,12 +172,29 @@ function SideBar() {
         </div>
       </section>
       <div className="social-media-container">
-          <button className="social-media"><a rel="noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/temitopeakinsoto">Linkedin</a></button>
-          <button className="social-media"><a rel="noopener noreferrer" target="_blank" href="https://www.temitopeakinsoto.com/#featured-projects">Projects</a></button>
-          <button className="social-media"><a
-          href={resume}
-          download="Hackerrank White Board Fitness Assessment"
-        >Resume</a></button>
+        <button className="social-media">
+          <a
+            rel="noopener noreferrer"
+            target="_blank"
+            href="https://www.linkedin.com/in/temitopeakinsoto"
+          >
+            Linkedin
+          </a>
+        </button>
+        <button className="social-media">
+          <a
+            rel="noopener noreferrer"
+            target="_blank"
+            href="https://www.temitopeakinsoto.com/#featured-projects"
+          >
+            Projects
+          </a>
+        </button>
+        <button className="social-media">
+          <a href={resume} download="A pdf copy of my resume">
+            Resume
+          </a>
+        </button>
       </div>
     </div>
   );

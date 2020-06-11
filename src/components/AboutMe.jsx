@@ -200,7 +200,7 @@ function AboutMe() {
         fast-paced environment.
       </p>
       <p className="main-heading">
-        Why I'm a great candidate for the Software Engineer - 2020
+        Why I  I'm a great candidate for the Software Engineer - 2020
         Graduate/Entry Level position
       </p>
       <p>
@@ -212,7 +212,7 @@ function AboutMe() {
         <li>I'm gritty and hardworking</li>
         <li>I'm an excellent problem solver</li>
         <li>I'm a collaborative team member</li>
-        <li>Have programming experience Python, Javascript, Databases etc </li>
+        <li>Have programming experience in Python, Javascript, Databases etc </li>
         <li>
           I'm a super-fast learner and I easily pick up new skills/technologies
         </li>

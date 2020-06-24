@@ -90,7 +90,7 @@ header {
 }
 
 .side-bar {
-  width: 30%;
+  width: 28%;
   padding-top: 10rem;
   text-align: left;
   display: flex;
@@ -130,9 +130,11 @@ header {
 
 .other-skills-container {
   display: flex;
+  flex-direction: column;
 }
 
 .other-skills {
+  margin-right: 10px;
   font-size: 1rem;
   font-weight: bold;
   color: gray;
@@ -274,4 +276,13 @@ header {
 .social-media a {
   text-decoration: none;
   color: white;
+}
+
+.aws-badge-container {
+  margin-bottom: 2rem; 
+  display: flex; 
+  justify-content:center; 
+  width: 100%; 
+  padding-left: 10px; 
+  box-shadow: 0 1px 5px 1px gray;
 }

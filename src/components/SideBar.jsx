@@ -118,8 +118,9 @@ function SideBar() {
               Others Skills
             </h4>
             <ul className="list-inline" style={{ listStyleType: "disc" }}>
-              <li className="other-skills">AWS (In view - 13/06/2020)</li>
-              <li className="other-skills">Git</li>
+              <li className="other-skills">AWS (EC2, VPC, S3, LAMBDA, etc)</li>
+              <li className="other-skills">Git/Github</li>
+              <li className="other-skills">Wireframing/Figma </li>
               <li className="other-skills">Wireframing </li>
               <li className="other-skills">Code Review</li>
               <li className="other-skills">Unit Testing/Jest, Supertest </li>
@@ -127,6 +128,14 @@ function SideBar() {
             </ul>
           </div>
         </div>
+      </section>
+      <section className="aws-badge-container">
+          <div
+            data-iframe-width="150"
+            data-iframe-height="270"
+            data-share-badge-id="9005357a-bfe3-40e1-a0fd-d5d1e26e04b0"
+            data-share-badge-host="https://www.youracclaim.com"
+          ></div>          
       </section>
       <section className="education-container">
         <h2> Education </h2>
